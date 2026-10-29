@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "year": 2023,
+      "data_sha256": "828874a3cf0fa1bbb4c3da6a87e5822b8563bbc04b21f9869479480dbcff410c",
+      "schema_sha256": "43ceb5126b9622bd863b366093c5373c1c0a0e65a3b8f640947b70524c94c1ec",
+      "raw_rows": 89184,
+      "trust_column": "AIBen"
+    },
+    {
+      "year": 2024,
+      "data_sha256": "7f2c2dbf6989d00b80a7351de4bb3af4b52b21cc52d5c947891bbc4f4e5cbe49",
+      "schema_sha256": "d9c03fd43949dd9b0fea4847894c4011a6fe3c4390d5d8c48e078a8bfe623833",
+      "raw_rows": 65437,
+      "trust_column": "AIAcc"
+    },
+    {
+      "year": 2025,
+      "data_sha256": "2d1f65308877282edfb4470520eabbc08cb499118432a3dcec6a66c086aa2baa",
+      "schema_sha256": "1d24951e04eab46c6f9fecef6ce8e6b32a0a14a3f0eecdcf62f70833a74b3ff8",
+      "raw_rows": 49191,
+      "trust_column": "AIAcc"
+    }
+  ],
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3"
+  },
+  "method_version": "1.0",
+  "missing_sentiment_policy": "Unsure and missing excluded from paired correlation",
+  "group_minimum_adoption_n": 100
+}

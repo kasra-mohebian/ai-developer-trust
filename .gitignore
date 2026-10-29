@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+data/raw/
+new-results*/
+.DS_Store
+.env
+
+# Local credentials and private exports
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
