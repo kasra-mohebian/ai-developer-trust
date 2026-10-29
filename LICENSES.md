@@ -27,3 +27,7 @@ Source: **Stack Overflow Developer Survey, Stack Exchange, Inc., 2023, 2024 and 
 Any database rights in the adapted aggregate CSV collection distributed here are made available under ODbL 1.0. Keep the source attribution and license notice when redistributing it, and comply with applicable share-alike and access requirements for adapted databases. The original respondent-level inputs are obtained separately from the publisher; no exclusive rights in those inputs are claimed.
 
 The displayed SVG is an original produced chart, with data-source attribution retained inside the image. The CSV collection also has a local [source notice](results/README.md). The published transformation code and documented input snapshots provide the method used to derive the aggregate collection; see ODbL section 4.6 for the applicable access requirement. A code or text license does not override the survey database's conditions. Referenced articles, external websites, publisher artwork, university teaching materials, and other third-party works remain outside these grants.
+
+## Conceptual illustration
+
+`docs/media/project-overview.jpg` was generated with OpenAI’s image-generation tool in Codex. It is explanatory artwork, not experimental evidence. To the extent rights exist and are held in this image, it is made available under CC BY 4.0. No university or publisher figure is reproduced.
