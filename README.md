@@ -8,7 +8,7 @@
 
 **AI use is growing. Is trust keeping up?** A reproducible Python analysis of three Stack Overflow Developer Surveys, with source code, aggregate data and documented survey definitions.
 
-The Python pipeline maps changing survey schemas, keeps neutral answers separate from distrust and compares explicitly defined respondent groups. The published tables can be reproduced from the official source files.
+The Python pipeline handles changes in the survey questions, keeps neutral answers separate from distrust and compares clearly defined respondent groups. The published tables can be reproduced from the official source files.
 
 ![Positive and negative trust among current AI users](results/users-only-trust.svg)
 
@@ -22,7 +22,7 @@ The Python pipeline maps changing survey schemas, keeps neutral answers separate
 
 Positive trust is lower in each successive annual sample **among current AI users who answered the trust question**. These are different, self-selected samples, not a panel following the same people. Survey wording and nonresponse also limit comparability.
 
-The all-respondent trust percentage mixes users and non-users differently by year: the 2024 source contains no non-user trust answers, while 2023 and 2025 do. Comparing those pooled percentages alone confounds trust with respondent composition. The original [annual table](results/annual_summary.csv) and [chart](results/adoption-and-trust.svg) remain available as historical outputs. The new [users-only table](results/users_only_trust.csv) is derived by code from the preserved [joint counts](results/adoption_trust_joint.csv).
+The all-respondent trust percentage mixes users and non-users differently by year: the 2024 source contains no non-user trust answers, while 2023 and 2025 do. Those pooled percentages reflect both trust and who answered the question, so they are not directly comparable. The original [annual table](results/annual_summary.csv) and [chart](results/adoption-and-trust.svg) remain available as historical outputs. The [users-only table](results/users_only_trust.csv) is derived by code from the preserved [joint counts](results/adoption_trust_joint.csv).
 
 ## What this project implements
 
