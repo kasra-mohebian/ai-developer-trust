@@ -1,8 +1,8 @@
 # AI Coding Tools: Adoption & Developer Trust (2023–2025)
 
-![Conceptual illustration: annual surveys, explicit group definitions and aggregate analysis.](docs/media/project-overview.jpg)
+![Technical concept illustration of independent annual survey inputs, schema mapping and aggregate outputs; not a result chart.](docs/media/project-overview-technical.png)
 
-*Conceptual illustration: annual surveys, explicit group definitions and aggregate analysis.*
+*Technical concept illustration of independent annual survey inputs, schema mapping and aggregate outputs; not a result chart.*
 
 [![Analysis checks](https://github.com/kasra-mohebian/ai-developer-trust/actions/workflows/checks.yml/badge.svg)](https://github.com/kasra-mohebian/ai-developer-trust/actions/workflows/checks.yml)
 

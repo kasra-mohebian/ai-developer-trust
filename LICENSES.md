@@ -30,4 +30,4 @@ The displayed SVG is an original produced chart, with data-source attribution re
 
 ## Conceptual illustration
 
-`docs/media/project-overview.jpg` was generated with OpenAI’s image-generation tool in Codex. It is explanatory artwork, not experimental evidence. To the extent rights exist and are held in this image, it is made available under CC BY 4.0. No university or publisher figure is reproduced.
+`docs/media/project-overview-technical.png` was generated with OpenAI’s image-generation tool in Codex. It is explanatory artwork, not experimental evidence. To the extent rights exist and are held in this image, it is made available under CC BY 4.0. No university or publisher figure is reproduced.
